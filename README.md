@@ -4,8 +4,8 @@
 
 <div align="center">  
   <br/><br/><br/><br/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=laLuna01&theme=outrun&show_icons=true&bg_color=2f1535&text_color=adedff" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laLuna01&theme=outrun&layout=compact&bg_color=2f1535&text_color=adedff" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=laLuna01&theme=outrun&show_icons=true&bg_color=2f1535&text_color=adedff" /> 
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laLuna01&theme=outrun&layout=compact&bg_color=2f1535&text_color=adedff" />
   <br/><br/><br/><br/>
 </div>
 
