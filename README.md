@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2828a0,50:FF00FF,100:2828a0&height=140&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=6000&pause=1000&color=f9c701&center=true&random=false&width=1000&height=100&lines=Hello+World!;My+name+is+Luana;I+study+analysis+and+system+development;Be+welcome+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=6000&pause=1000&color=f9c701&center=true&random=false&width=1000&height=100&lines=Hello+World!;My+name+is+Luana;I+study+Systems+Development+and+Analysis;Be+welcome+:%29)](https://git.io/typing-svg)
 
 ### Main skills:
 
@@ -24,18 +24,6 @@
   <img src="https://img.shields.io/badge/React-ff2cb7?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/next%20js-563D7C?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node%20js-2828a0?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</div>
-
-### Tools:
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-ff2cb7?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/maven-2f1535?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-007ACC?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/pypi-080871?style=for-the-badge&logo=pypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-c2a637?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-563D7C?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 <div align="center">  
