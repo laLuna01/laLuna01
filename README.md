@@ -2,6 +2,28 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=6000&pause=1000&color=f9c701&center=true&random=false&width=1000&height=100&lines=Hello+World!;My+name+is+Luana;I+study+Systems+Development+and+Analysis;Be+welcome+:%29)](https://git.io/typing-svg)
 
+<details>
+<summary>
+  <h3>About me: </h3>
+</summary>
+
+I'm a programming student at FIAP. Currently, I'm focusing my efforts on enhancing my skills in Java and JavaScript, while also trying to learn English.
+
+🚀 What I do:
+* 📚 Continuously learning about software development, algorithms, and data structures.
+* 🌐 Expanding my knowledge in English for better collaboration and access to global resources in the technology field.
+
+⭐️ What i like:
+* 🐱 Animals
+* ☕️ Coffee
+* 🎮 Games
+
+🤝 Let's Connect:
+* 💬 If you're passionate about technology, software development, or simply want to exchange ideas, feel free to reach out.
+
+<br>
+</details>
+
 ### Main skills:
 
 <div display="flex">
