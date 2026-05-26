@@ -57,8 +57,8 @@ I'm a programming student at FIAP. Currently, I'm focusing my efforts on enhanci
 
 <div align="center">  
   <br/><br/><br/><br/>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=laLuna01&theme=outrun&show_icons=true&bg_color=2f1535&text_color=adedff" /> 
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laLuna01&theme=outrun&layout=compact&bg_color=2f1535&text_color=adedff" />
+  <img height="195px" src="https://github-stats-extended.vercel.app/api?username=laLuna01&theme=outrun&show_icons=true&bg_color=2f1535&text_color=adedff" /> 
+  <img height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=laLuna01&theme=outrun&layout=compact&bg_color=2f1535&text_color=adedff" />
   <br/><br/><br/><br/>
 </div>
 
